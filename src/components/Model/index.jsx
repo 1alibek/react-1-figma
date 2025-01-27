@@ -1,7 +1,7 @@
 import FilterBtn from "../Filter"
 import Card from "../Card"
 
-function Discount() {
+function MOdel() {
     const cards = Array(4).fill(null)
 
     return (
@@ -19,4 +19,4 @@ function Discount() {
     )
 }
 
-export default Discount
+export default MOdel

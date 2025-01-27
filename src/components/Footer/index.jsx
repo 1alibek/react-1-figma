@@ -10,8 +10,8 @@ function Footer() {
     return (
         <footer className="pt-[30px] bg-[#1f1f1f]">
             <div className="container2 flex flex-col">
-                <div className="flex justify-between items-center gap-[20px] pb-[15px] border-b border-[#e8e8e8]">
-                    <div className="flex items-center gap-[10px]">
+                <div className="flex justify-between items-center gap-[20px] pb-[15px] border-b border-[#e8e8e8] max-[1080px]:justify-center">
+                    <div className="flex items-center gap-[10px] ">
                         <span className="h-[30px] w-[30px] rounded-[8px] bg-[#ff7a1b]"></span>
                         <span className="h-[30px] w-[30px] rounded-[8px] bg-[#fff]"></span>
                         <span className="h-[30px] w-[30px] rounded-[8px] bg-[#ffd634]"></span>
