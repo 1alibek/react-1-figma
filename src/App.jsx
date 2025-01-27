@@ -18,7 +18,6 @@ function App() {
             <Discount />
             <Comments />
             <About />
-          
             <Footer />
         </>
     )
